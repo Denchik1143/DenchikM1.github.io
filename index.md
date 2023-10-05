@@ -4,28 +4,18 @@ layout: default
 
 # **Портфоліо**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 ## **_ПІБ та контакти_**
 
 ### ПІБ Юхимчук Денис
+### Моб. телефон 0973337016
 
-### Header 3
+### ## **_Вміння та навички_**
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+###Грать майкрафт з модами
+###Гратьв футбол
+###Грать в гта онлайн
 
 #### Header 4
 
