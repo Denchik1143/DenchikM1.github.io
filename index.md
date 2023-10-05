@@ -34,6 +34,6 @@ layout: default
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://wallpaper.mob.org.ua/image/flagi-fon-26177.html)
 
 
