@@ -34,6 +34,6 @@ layout: default
 
 ### Large image
 
-![Branching](https://github.com/Denchik1143/DenchikM1.github.io/blob/main/image_1.jpg)
+![Branching](image_1.jpg)
 
 
