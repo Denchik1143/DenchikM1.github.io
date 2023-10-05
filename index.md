@@ -19,8 +19,8 @@ layout: default
 
 ## Мої проекти
 
-[Проект 2]https://github.com/Denchik1143/Lab-2.git
-[Проект 3]https://github.com/Denchik1143/Lab-3.git
+* [Проект 2]https://github.com/Denchik1143/Lab-2.git
+* [Проект 3]https://github.com/Denchik1143/Lab-3.git
 
 
 ### Посилання на мене
