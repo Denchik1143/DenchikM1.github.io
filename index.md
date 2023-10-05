@@ -11,5 +11,5 @@ Hello World
 ## Посилання на проекти
 ### [Проект 2](https://github.com/Denchik1143/Lab-2.git)
 ### [Проект 3](https://github.com/Denchik1143/DenchikM1.github.io.git)
-# **Посилання на ваші соціальні мережі**
-###| Git                | [тут](https://github.com/LabeUri?tab=repositories)      |
+**Посилання на ваші соціальні мережі**
+###| Git                | [тут]([https://github.com/LabeUri?tab=repositories](https://github.com/Denchik1143)https://github.com/Denchik1143)      |
