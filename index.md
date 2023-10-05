@@ -11,13 +11,13 @@ layout: default
 ### ПІБ Юхимчук Денис
 ### Моб. телефон 0973337016
 
-### **_Вміння та навички_**
+## **_Вміння та навички_**
 
 ###Грать майкрафт з модами
 ###Гратьв футбол
 ###Грать в гта онлайн
 
-#### Header 4
+## Мої проекти
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
