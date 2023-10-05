@@ -23,11 +23,9 @@ layout: default
 [Проект 3]https://github.com/Denchik1143/Lab-3.git
 
 
-##### Header 5
+### Посилання на мене
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[Git](https://github.com/Denchik1143)
 
 ###### Header 6
 
